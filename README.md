@@ -1,4 +1,4 @@
 
 pre include
-![svg test](test.svg)
+![svg test](https://ghcdn.rawgit.org/nopeslide/test/master/test.svg)
 post include
